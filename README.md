@@ -11,7 +11,7 @@
 
 ⚡ Fun fact: I make coffee for myself everyday
 
-👐 Reach out to me: [![Linkedin Badge](https://img.shields.io/badge/-JiahaoHe-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jingxuanbao/)
+👐 Reach out to me: [![Linkedin Badge](https://img.shields.io/badge/-JingxuanBao-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jingxuanbao/)
 [![Gmail Badge](https://img.shields.io/badge/-bjx@seas.upenn.edu-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:bjx@seas.upenn.edu)
 
 
@@ -35,5 +35,3 @@
 ![Stripe](https://img.shields.io/badge/Stripe-232F3E?style=flat-square&logo=Stripe)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Hugo-coder-hjh.Hugo-coder-hjh)

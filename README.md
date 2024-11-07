@@ -9,4 +9,4 @@
 ⚡ Fun fact: I make coffee ☕️ for myself every morning
 
 👐 Reach out to me: [![Linkedin Badge](https://img.shields.io/badge/-JingxuanBao-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jingxuanbao/)
-[![Gmail Badge](https://img.shields.io/badge/-bjx@seas.upenn.edu-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:jingxuan.bao.upenn@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-jingxuan.bao.upenn@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:jingxuan.bao.upenn@gmail.com)

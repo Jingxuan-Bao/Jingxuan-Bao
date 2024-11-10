@@ -1,6 +1,6 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>Hi there, I am Jingxuan </h1>
 
-🎓 Master Student at Upenn, Major in Scientific Computing(SCMP), worked in TikTok in 2022 Summer
+🎓 Software Engineer II @Morgan Stanley, prev at @ByteDance/TikTok. Master Student at Upenn, Major in Scientific Computing(SCMP).
 
 🔭 I’m currently curious about Distributed System, Natural Language Processing
 
